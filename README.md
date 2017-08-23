@@ -1,2 +1,2 @@
 # coolapps
-This is in the ready-edit branch.
+Hello World! This is a really cool app!
